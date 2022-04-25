@@ -1,10 +1,10 @@
-TPAB 1 10
-KidA 2 8.5
-AFUT 3 9
 Trench 4 10
-SRFNZK 5 9.5
+TPAB 1 10
+Toxicity 9 9.5
+AFUT 3 9
 Currents 6 8.2
 TLOP 7 8
+KidA 2 8.5
 WYWH 8 8.8
-Toxicity 9 9.5
 FEFA 10 9.3
+SRFNZK 5 9.5
